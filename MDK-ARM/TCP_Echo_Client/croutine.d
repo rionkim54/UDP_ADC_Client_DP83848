@@ -1,0 +1,14 @@
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tcp_echo_client\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+tcp_echo_client\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+tcp_echo_client\croutine.o: ../Inc/FreeRTOSConfig.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM7/r0p1/portmacro.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+tcp_echo_client\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
